@@ -1,0 +1,100 @@
+hr{
+	background-color:black;
+	width:704px;
+	height: 5px
+}
+ul li{
+	display:inline-block;
+	border-right: 1px solid black;
+	border-height:5px;
+	padding-left: 30px;
+	padding-right: 30px;
+	text-align: center;
+	font-size:10pt;
+	}
+.grande{
+	width: 100%;
+	height: 100%;
+	margin-top: 25px
+}
+p{
+	text-align: center;
+	padding-left:80px;
+	padding-right:80px;
+}
+}
+.solito{
+	border-right: none
+}
+
+.container{
+	width:700px;
+	margin:0 auto;
+}
+
+.chiquitas	{
+	background-color:black;
+	width:60px;
+	height: 1px
+}
+h4{
+	margin-bottom:10px;
+}
+.chiqui{
+	float:left;
+	margin:0;
+}
+
+/*Coders*/
+
+.coders{
+	text-align: center;
+}
+span{
+	width: 200px;
+	height: 200px;
+	position:relative;
+}
+
+.ima{
+	width: 200px;
+	height: 200px;
+	margin:10px;
+	opacity:.05 red;
+}
+
+span p{
+	position: absolute;
+	z-index:1;
+	left:30px;
+	bottom:0px;
+	color:white;
+}
+.linea{
+	display: inline-block;
+}
+/*negros*/
+
+.negrouno{
+	width: 200px;
+	height: 200px;
+	background-color: black;
+	display: inline-block;
+	margin:10px;
+	position: absolute;
+	top:0;
+	left:0;
+	z-index: 1
+
+}
+.negrodos{
+	width: 200px;
+	height: 200px;
+	background-color: black;
+	display: inline-block;
+	margin:10px;
+	position: relative;
+	
+}
+
+.relative{position: relative;}
